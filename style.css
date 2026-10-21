@@ -1,0 +1,22 @@
+.policko{
+    height: 100px;
+    width: 300px;
+    background-color: aqua;
+    color: aqua;
+    display:flex;
+}
+.policko2{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    color: aqua;
+    display:flex;
+}
+.container{
+    height: 50vh;
+    width: 50vh;
+    display: grid;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
